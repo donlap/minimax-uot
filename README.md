@@ -44,7 +44,7 @@ If you use this code, please cite our paper:
 @inproceedings{ponnoprat2026minimax,
   title={Minimax Optimal Estimation of Transport-Growth Pairs in Unbalanced Optimal Transport},
   author={Ponnoprat, Donlapark and Isobe, Noboru and Imaizumi, Masaaki},
-  booktitle={Advances in Neural Information Processing Systems},
+  booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
   year={2026}
 }
 ```
